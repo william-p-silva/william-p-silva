@@ -66,16 +66,11 @@ Atualmente estou desenvolvendo projetos como o **GameStore** e sistemas utilizan
  
 ## 📊 Estatísticas
  
-> ⚠️ **Nota:** O serviço público `github-readme-stats.vercel.app` pode ser instável por limite de requisições.  
-> Para estatísticas sempre funcionando, veja a seção [Como corrigir as estatísticas](#-como-corrigir-as-estatísticas-via-github-actions) abaixo.
- 
 <div align="center">
-  <a href="https://github.com/william-p-silva">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=william-p-silva&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-  </a>
-  <a href="https://github.com/william-p-silva">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=william-p-silva&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
-  </a>
+<div align="center">
+  <img height="180em" src="./profile/stats.svg"/>
+  <img height="180em" src="./profile/langs.svg"/>
+</div>
 </div>
 
 ---
