@@ -63,14 +63,4 @@ Atualmente estou desenvolvendo projetos como o **GameStore** e sistemas utilizan
 - Arquitetura de Software
 
 ---
- 
-## 📊 Estatísticas
- 
-<div align="center">
-<div align="center">
-  <img height="180em" src="./profile/stats.svg"/>
-  <img height="180em" src="./profile/langs.svg"/>
-</div>
-</div>
 
----
