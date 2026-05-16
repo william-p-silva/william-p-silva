@@ -1,6 +1,6 @@
 # 👨‍💻 William José Pereira da Silva
  
-`Full-Stack Developer` `.NET Developer` `ASP.NET Core` `TypeScript`
+`Full-Stack Developer` `.NET Developer` `ASP.NET Core` `TypeScript Developer`
  
 Olá! Meu nome é William e sou estudante de Desenvolvimento de Software Multiplataforma na Fatec.  
 Atualmente foco meus estudos em desenvolvimento web full-stack utilizando .NET e C#, aplicando conceitos de APIs REST, autenticação JWT, arquitetura limpa e testes automatizados em projetos práticos.
