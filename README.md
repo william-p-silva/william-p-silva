@@ -34,7 +34,8 @@ Atualmente estou desenvolvendo projetos como o **GameStore** e sistemas utilizan
   <img src="https://skillicons.dev/icons?i=java" height="32" alt="Java"/>
   <img src="https://skillicons.dev/icons?i=python" height="32" alt="Python"/>
   <img src="https://skillicons.dev/icons?i=php" height="32" alt="PHP"/>
-<img src="https://img.shields.io/badge/ASP.NET_Core-5C2D91?style=flat-square&logo=dotnet&logoColor=white" height="42" alt="ASP.NET Core"/>
+ 
+  <img src="https://img.shields.io/badge/ASP.NET_Core-5C2D91?style=flat-square&logo=dotnet&logoColor=white" height="42" alt="ASP.NET Core"/>
   <img src="https://img.shields.io/badge/Entity_Framework-68217A?style=flat-square&logo=nuget&logoColor=white" height="42" alt="Entity Framework"/>
 
 </div>
@@ -53,6 +54,7 @@ Atualmente estou desenvolvendo projetos como o **GameStore** e sistemas utilizan
   <img src="https://skillicons.dev/icons?i=ts" height="32" alt="TypeScript"/>
   <img src="https://skillicons.dev/icons?i=react" height="32" alt="React"/>
   <img src="https://skillicons.dev/icons?i=nextjs" height="32" alt="Next.js"/>
+ 
   <img src="https://img.shields.io/badge/Blazor-512BD4?style=flat-square&logo=blazor&logoColor=white" height="42" alt="Blazor"/>
 </div>
 
@@ -72,15 +74,6 @@ Atualmente estou desenvolvendo projetos como o **GameStore** e sistemas utilizan
 
 ---
 
-### 🎨 Design
-
----
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=figma" height="32" alt="Figma"/>
-</div>
-
----
 
 ### 💡 IDEs
 
