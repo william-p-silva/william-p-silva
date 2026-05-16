@@ -31,11 +31,12 @@ Atualmente estou desenvolvendo projetos como o **GameStore** e sistemas utilizan
 <div align="center">
   <img src="https://skillicons.dev/icons?i=cs" height="32" alt="C#"/>
   <img src="https://skillicons.dev/icons?i=dotnet" height="32" alt=".NET"/>
-  <img src="https://img.shields.io/badge/ASP.NET_Core-5C2D91?style=flat-square&logo=dotnet&logoColor=white" height="32" alt="ASP.NET Core"/>
-  <img src="https://img.shields.io/badge/Entity_Framework-68217A?style=flat-square&logo=nuget&logoColor=white" height="32" alt="Entity Framework"/>
   <img src="https://skillicons.dev/icons?i=java" height="32" alt="Java"/>
   <img src="https://skillicons.dev/icons?i=python" height="32" alt="Python"/>
   <img src="https://skillicons.dev/icons?i=php" height="32" alt="PHP"/>
+<img src="https://img.shields.io/badge/ASP.NET_Core-5C2D91?style=flat-square&logo=dotnet&logoColor=white" height="42" alt="ASP.NET Core"/>
+  <img src="https://img.shields.io/badge/Entity_Framework-68217A?style=flat-square&logo=nuget&logoColor=white" height="42" alt="Entity Framework"/>
+
 </div>
 
 ---
@@ -52,7 +53,7 @@ Atualmente estou desenvolvendo projetos como o **GameStore** e sistemas utilizan
   <img src="https://skillicons.dev/icons?i=ts" height="32" alt="TypeScript"/>
   <img src="https://skillicons.dev/icons?i=react" height="32" alt="React"/>
   <img src="https://skillicons.dev/icons?i=nextjs" height="32" alt="Next.js"/>
-  <img src="https://img.shields.io/badge/Blazor-512BD4?style=flat-square&logo=blazor&logoColor=white" height="32" alt="Blazor"/>
+  <img src="https://img.shields.io/badge/Blazor-512BD4?style=flat-square&logo=blazor&logoColor=white" height="42" alt="Blazor"/>
 </div>
 
 ---
@@ -98,19 +99,21 @@ Atualmente estou desenvolvendo projetos como o **GameStore** e sistemas utilizan
 
 <div align="center">
 
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=william-p-silva&theme=tokyonight&hide_border=true&locale=pt_BR&locale=pt-br"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=william-p-silva&theme=tokyonight&hide_border=true&locale=pt_Br"/>
+
+<div>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=william-p-silva&theme=tokyonight&locale=pt_Br"/>
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=william-p-silva&theme=tokyonight&locale=pt_Br"/>
+<div>
+
+
 
   <br/>
 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=william-p-silva&theme=tokyonight&locale=pt-br"/>
 
   <br/>
-
-<div>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=william-p-silva&theme=tokyonight"/>
-
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=william-p-silva&theme=tokyonight&locale=pt-br"/>
-  <div>
-
 </div>
+
 
